@@ -9,5 +9,5 @@ import Foundation
 import UIKit
 
 class TestViewController: UIViewController {
-    
+    @IBOutlet weak var tableView: UITableView!
 }
